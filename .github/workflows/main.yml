@@ -1,4 +1,4 @@
-name: Debugging with SSH
+name: SSH
 
 on: workflow_dispatch
 
